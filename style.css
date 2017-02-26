@@ -1,0 +1,18 @@
+.tweet{
+    border:1px solid #337ab7;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.sname{
+    color:black;   
+}
+.time{
+    color:black;
+}
+.dname{
+    margin-left: 10px;
+}
+img{
+    border-radius: 5px;
+}
